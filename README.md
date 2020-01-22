@@ -11,6 +11,7 @@ The wood pallet manufacturing plant produces desks in 5 different series. The CS
 We must classify each desk to the group to which it belongs using the k-means algorithm and to find all valid desks, desks shall be defined valid if they are at least 3 cm from the cluster center to which they are associated.
 
 • A graph showing the desks of all dimensions, when each group is marked with a different color
+
 • A graph showing the desks of all dimensions, when a normal plate is colored in blue and a plate is colored in red
 
 In addition, we will do a sensitivity analysis where we show (on the graph) the percentage of defected desks that depend on the threshold by which we decide whether desk are valid or not.
